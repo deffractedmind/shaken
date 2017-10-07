@@ -21,3 +21,6 @@ input,textarea{
     font-size: 15px;
   }
   
+  .col-md-12{
+    float:none;
+  }
